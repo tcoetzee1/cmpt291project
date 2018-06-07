@@ -73,3 +73,25 @@ C:\Users\compoopter1\Desktop\New folder (3)\Cmpt291groupawesome-master\Cmpt291gr
 C:\Users\compoopter1\Desktop\New folder (3)\Cmpt291groupawesome-master\Cmpt291groupawesome-master\cmpy291 project\WindowsApplication3\obj\Debug\WindowsApplication3.Search_Results.resources
 C:\Users\compoopter1\Desktop\New folder (3)\Cmpt291groupawesome-master\Cmpt291groupawesome-master\cmpy291 project\WindowsApplication3\obj\Debug\WindowsApplication3.Test.resources
 C:\Users\compoopter1\Desktop\New folder (3)\Cmpt291groupawesome-master\Cmpt291groupawesome-master\cmpy291 project\WindowsApplication3\obj\Debug\Cmpt 291 project.vbproj.GenerateResource.Cache
+C:\Users\compoopter1\Documents\GitHub\cmpt291project\cmpy291 project\WindowsApplication3\bin\Debug\WindowsApplication3.exe.config
+C:\Users\compoopter1\Documents\GitHub\cmpt291project\cmpy291 project\WindowsApplication3\obj\Debug\WindowsApplication3.exe
+C:\Users\compoopter1\Documents\GitHub\cmpt291project\cmpy291 project\WindowsApplication3\obj\Debug\WindowsApplication3.xml
+C:\Users\compoopter1\Documents\GitHub\cmpt291project\cmpy291 project\WindowsApplication3\obj\Debug\WindowsApplication3.pdb
+C:\Users\compoopter1\Documents\GitHub\cmpt291project\cmpy291 project\WindowsApplication3\bin\Debug\WindowsApplication3.exe
+C:\Users\compoopter1\Documents\GitHub\cmpt291project\cmpy291 project\WindowsApplication3\bin\Debug\WindowsApplication3.pdb
+C:\Users\compoopter1\Documents\GitHub\cmpt291project\cmpy291 project\WindowsApplication3\bin\Debug\WindowsApplication3.xml
+C:\Users\compoopter1\Documents\GitHub\cmpt291project\cmpy291 project\WindowsApplication3\obj\Debug\Cmpt 291 project.vbprojResolveAssemblyReference.cache
+C:\Users\compoopter1\Documents\GitHub\cmpt291project\cmpy291 project\WindowsApplication3\obj\Debug\WindowsApplication3.Customer_Info.resources
+C:\Users\compoopter1\Documents\GitHub\cmpt291project\cmpy291 project\WindowsApplication3\obj\Debug\WindowsApplication3.Customer_Search.resources
+C:\Users\compoopter1\Documents\GitHub\cmpt291project\cmpy291 project\WindowsApplication3\obj\Debug\WindowsApplication3.CustomerRegistration.resources
+C:\Users\compoopter1\Documents\GitHub\cmpt291project\cmpy291 project\WindowsApplication3\obj\Debug\WindowsApplication3.CustomerView.resources
+C:\Users\compoopter1\Documents\GitHub\cmpt291project\cmpy291 project\WindowsApplication3\obj\Debug\WindowsApplication3.Delete_Customer.resources
+C:\Users\compoopter1\Documents\GitHub\cmpt291project\cmpy291 project\WindowsApplication3\obj\Debug\WindowsApplication3.Delete_Employee.resources
+C:\Users\compoopter1\Documents\GitHub\cmpt291project\cmpy291 project\WindowsApplication3\obj\Debug\WindowsApplication3.Employee_Login.resources
+C:\Users\compoopter1\Documents\GitHub\cmpt291project\cmpy291 project\WindowsApplication3\obj\Debug\WindowsApplication3.EmployeeRegister.resources
+C:\Users\compoopter1\Documents\GitHub\cmpt291project\cmpy291 project\WindowsApplication3\obj\Debug\WindowsApplication3.Main.resources
+C:\Users\compoopter1\Documents\GitHub\cmpt291project\cmpy291 project\WindowsApplication3\obj\Debug\WindowsApplication3.Resources.resources
+C:\Users\compoopter1\Documents\GitHub\cmpt291project\cmpy291 project\WindowsApplication3\obj\Debug\WindowsApplication3.RentalBooking.resources
+C:\Users\compoopter1\Documents\GitHub\cmpt291project\cmpy291 project\WindowsApplication3\obj\Debug\WindowsApplication3.Search_Results.resources
+C:\Users\compoopter1\Documents\GitHub\cmpt291project\cmpy291 project\WindowsApplication3\obj\Debug\WindowsApplication3.Test.resources
+C:\Users\compoopter1\Documents\GitHub\cmpt291project\cmpy291 project\WindowsApplication3\obj\Debug\Cmpt 291 project.vbproj.GenerateResource.Cache

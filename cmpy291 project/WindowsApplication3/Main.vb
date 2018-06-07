@@ -20,7 +20,7 @@ Public Class Main
         ' Fills table with data from SQL query
         ' ---------------------------------------------------------------------------------------------
         Dim connection As New SqlConnection("Data Source=COMPOOPTER;Integrated Security=True") ' CHANGE DATA SOURCE
-        Dim searchQuery As String = "UPDATE * From [Project291].dbo.Customer"
+        Dim searchQuery As String = "SELECT * From [Project291].dbo.Customer"
 
         Dim command As New SqlCommand(searchQuery, connection)
         Dim adapter As New SqlDataAdapter(command)
@@ -83,6 +83,22 @@ Public Class Main
         ' ---------------------------------------------------------------------------------------------
         Dim connection As New SqlConnection("Data Source=COMPOOPTER;Integrated Security=True") ' CHANGE DATA SOURCE
         Dim searchQuery As String = "SELECT * From [Project291].dbo.Branch"
+
+        Dim command As New SqlCommand(searchQuery, connection)
+        Dim adapter As New SqlDataAdapter(command)
+        Dim table As New DataTable()
+
+        adapter.Fill(table)
+        DataGridView1.DataSource = table
+        ' ---------------------------------------------------------------------------------------------
+    End Sub
+
+    Private Sub Button3_Click(sender As Object, e As EventArgs) Handles Button3.Click
+        ' ---------------------------------------------------------------------------------------------
+        ' Fills table with data from SQL query
+        ' ---------------------------------------------------------------------------------------------
+        Dim connection As New SqlConnection("Data Source=COMPOOPTER;Integrated Security=True") ' CHANGE DATA SOURCE
+        Dim searchQuery As String = "SELECT * From [Project291].dbo.Car, [Project291].dbo.Branch Where Car.BID=Branch.BID and Branch.BID=2"
 
         Dim command As New SqlCommand(searchQuery, connection)
         Dim adapter As New SqlDataAdapter(command)

@@ -28,9 +28,9 @@ Partial Class Search_Results
         Me.EditToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
         Me.HelpToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
         Me.SplitContainer1 = New System.Windows.Forms.SplitContainer()
-        Me.Button1 = New System.Windows.Forms.Button()
-        Me.Button2 = New System.Windows.Forms.Button()
         Me.Button3 = New System.Windows.Forms.Button()
+        Me.Button2 = New System.Windows.Forms.Button()
+        Me.Button1 = New System.Windows.Forms.Button()
         Me.MenuStrip1.SuspendLayout()
         CType(Me.SplitContainer1, System.ComponentModel.ISupportInitialize).BeginInit()
         Me.SplitContainer1.Panel2.SuspendLayout()
@@ -86,14 +86,14 @@ Partial Class Search_Results
         Me.SplitContainer1.SplitterDistance = 487
         Me.SplitContainer1.TabIndex = 1
         '
-        'Button1
+        'Button3
         '
-        Me.Button1.Location = New System.Drawing.Point(1157, 3)
-        Me.Button1.Name = "Button1"
-        Me.Button1.Size = New System.Drawing.Size(99, 41)
-        Me.Button1.TabIndex = 0
-        Me.Button1.Text = "Close"
-        Me.Button1.UseVisualStyleBackColor = True
+        Me.Button3.Location = New System.Drawing.Point(108, 3)
+        Me.Button3.Name = "Button3"
+        Me.Button3.Size = New System.Drawing.Size(99, 41)
+        Me.Button3.TabIndex = 2
+        Me.Button3.Text = "Search Again"
+        Me.Button3.UseVisualStyleBackColor = True
         '
         'Button2
         '
@@ -104,14 +104,14 @@ Partial Class Search_Results
         Me.Button2.Text = "Ok"
         Me.Button2.UseVisualStyleBackColor = True
         '
-        'Button3
+        'Button1
         '
-        Me.Button3.Location = New System.Drawing.Point(108, 3)
-        Me.Button3.Name = "Button3"
-        Me.Button3.Size = New System.Drawing.Size(99, 41)
-        Me.Button3.TabIndex = 2
-        Me.Button3.Text = "Search Again"
-        Me.Button3.UseVisualStyleBackColor = True
+        Me.Button1.Location = New System.Drawing.Point(1157, 3)
+        Me.Button1.Name = "Button1"
+        Me.Button1.Size = New System.Drawing.Size(99, 41)
+        Me.Button1.TabIndex = 0
+        Me.Button1.Text = "Close"
+        Me.Button1.UseVisualStyleBackColor = True
         '
         'Search_Results
         '
