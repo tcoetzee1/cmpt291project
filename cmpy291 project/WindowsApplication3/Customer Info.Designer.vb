@@ -53,6 +53,8 @@ Partial Class Customer_Info
         Me.CheckBox1 = New System.Windows.Forms.CheckBox()
         Me.ListView1 = New System.Windows.Forms.ListView()
         Me.Button4 = New System.Windows.Forms.Button()
+        Me.DataGridView1 = New System.Windows.Forms.DataGridView()
+        CType(Me.DataGridView1, System.ComponentModel.ISupportInitialize).BeginInit()
         Me.SuspendLayout()
         '
         'TextBox12
@@ -322,11 +324,21 @@ Partial Class Customer_Info
         Me.Button4.Text = "Edit"
         Me.Button4.UseVisualStyleBackColor = True
         '
+        'DataGridView1
+        '
+        Me.DataGridView1.AutoSizeColumnsMode = System.Windows.Forms.DataGridViewAutoSizeColumnsMode.Fill
+        Me.DataGridView1.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize
+        Me.DataGridView1.Location = New System.Drawing.Point(1, 351)
+        Me.DataGridView1.Name = "DataGridView1"
+        Me.DataGridView1.Size = New System.Drawing.Size(652, 196)
+        Me.DataGridView1.TabIndex = 57
+        '
         'Customer_Info
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.ClientSize = New System.Drawing.Size(655, 546)
+        Me.Controls.Add(Me.DataGridView1)
         Me.Controls.Add(Me.Button4)
         Me.Controls.Add(Me.ListView1)
         Me.Controls.Add(Me.CheckBox1)
@@ -365,6 +377,7 @@ Partial Class Customer_Info
         Me.MinimumSize = New System.Drawing.Size(671, 585)
         Me.Name = "Customer_Info"
         Me.Text = "Customer_Info"
+        CType(Me.DataGridView1, System.ComponentModel.ISupportInitialize).EndInit()
         Me.ResumeLayout(False)
         Me.PerformLayout()
 
@@ -401,4 +414,5 @@ Partial Class Customer_Info
     Friend WithEvents CheckBox1 As CheckBox
     Friend WithEvents ListView1 As ListView
     Friend WithEvents Button4 As Button
+    Friend WithEvents DataGridView1 As DataGridView
 End Class

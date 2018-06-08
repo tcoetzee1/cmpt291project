@@ -7,7 +7,7 @@ Public Class CustomerRegistration
         ' -----------------------------------------------------------------------------------------------------------------------------
         ' Insert a customer into the database
         ' -----------------------------------------------------------------------------------------------------------------------------
-        Dim connStr = "Data Source=COMPOOPTER;Integrated Security=True" ' CHANGE DATA SOURCE
+        Dim connStr = GlobalVariables.serverString ' CHANGE DATA SOURCE
 
         Using con = New SqlConnection(connStr)
 

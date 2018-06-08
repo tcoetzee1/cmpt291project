@@ -13,7 +13,7 @@ Public Class Delete_Customer
         Dim con As New SqlConnection
         Dim cmd As New SqlCommand
 
-        con.ConnectionString = "Data Source=COMPOOPTER;Integrated Security=True" ' CHANGE DATA SOURCE
+        con.ConnectionString = GlobalVariables.serverString ' CHANGE DATA SOURCE
 
         con.Open()
 

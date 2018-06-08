@@ -95,3 +95,26 @@ C:\Users\compoopter1\Documents\GitHub\cmpt291project\cmpy291 project\WindowsAppl
 C:\Users\compoopter1\Documents\GitHub\cmpt291project\cmpy291 project\WindowsApplication3\obj\Debug\WindowsApplication3.Search_Results.resources
 C:\Users\compoopter1\Documents\GitHub\cmpt291project\cmpy291 project\WindowsApplication3\obj\Debug\WindowsApplication3.Test.resources
 C:\Users\compoopter1\Documents\GitHub\cmpt291project\cmpy291 project\WindowsApplication3\obj\Debug\Cmpt 291 project.vbproj.GenerateResource.Cache
+C:\Users\Trevor\Desktop\GitHub\cmpt291project\cmpy291 project\WindowsApplication3\bin\Debug\WindowsApplication3.exe.config
+C:\Users\Trevor\Desktop\GitHub\cmpt291project\cmpy291 project\WindowsApplication3\bin\Debug\WindowsApplication3.exe
+C:\Users\Trevor\Desktop\GitHub\cmpt291project\cmpy291 project\WindowsApplication3\bin\Debug\WindowsApplication3.pdb
+C:\Users\Trevor\Desktop\GitHub\cmpt291project\cmpy291 project\WindowsApplication3\bin\Debug\WindowsApplication3.xml
+C:\Users\Trevor\Desktop\GitHub\cmpt291project\cmpy291 project\WindowsApplication3\obj\Debug\Cmpt 291 project.vbprojAssemblyReference.cache
+C:\Users\Trevor\Desktop\GitHub\cmpt291project\cmpy291 project\WindowsApplication3\obj\Debug\WindowsApplication3.Customer_Info.resources
+C:\Users\Trevor\Desktop\GitHub\cmpt291project\cmpy291 project\WindowsApplication3\obj\Debug\WindowsApplication3.Customer_Search.resources
+C:\Users\Trevor\Desktop\GitHub\cmpt291project\cmpy291 project\WindowsApplication3\obj\Debug\WindowsApplication3.CustomerRegistration.resources
+C:\Users\Trevor\Desktop\GitHub\cmpt291project\cmpy291 project\WindowsApplication3\obj\Debug\WindowsApplication3.CustomerView.resources
+C:\Users\Trevor\Desktop\GitHub\cmpt291project\cmpy291 project\WindowsApplication3\obj\Debug\WindowsApplication3.Delete_Customer.resources
+C:\Users\Trevor\Desktop\GitHub\cmpt291project\cmpy291 project\WindowsApplication3\obj\Debug\WindowsApplication3.Delete_Employee.resources
+C:\Users\Trevor\Desktop\GitHub\cmpt291project\cmpy291 project\WindowsApplication3\obj\Debug\WindowsApplication3.Employee_Login.resources
+C:\Users\Trevor\Desktop\GitHub\cmpt291project\cmpy291 project\WindowsApplication3\obj\Debug\WindowsApplication3.EmployeeRegister.resources
+C:\Users\Trevor\Desktop\GitHub\cmpt291project\cmpy291 project\WindowsApplication3\obj\Debug\WindowsApplication3.Resources.resources
+C:\Users\Trevor\Desktop\GitHub\cmpt291project\cmpy291 project\WindowsApplication3\obj\Debug\WindowsApplication3.RentalBooking.resources
+C:\Users\Trevor\Desktop\GitHub\cmpt291project\cmpy291 project\WindowsApplication3\obj\Debug\WindowsApplication3.Search_Results.resources
+C:\Users\Trevor\Desktop\GitHub\cmpt291project\cmpy291 project\WindowsApplication3\obj\Debug\WindowsApplication3.Test.resources
+C:\Users\Trevor\Desktop\GitHub\cmpt291project\cmpy291 project\WindowsApplication3\obj\Debug\Cmpt 291 project.vbproj.GenerateResource.cache
+C:\Users\Trevor\Desktop\GitHub\cmpt291project\cmpy291 project\WindowsApplication3\obj\Debug\Cmpt 291 project.vbproj.CoreCompileInputs.cache
+C:\Users\Trevor\Desktop\GitHub\cmpt291project\cmpy291 project\WindowsApplication3\obj\Debug\WindowsApplication3.exe
+C:\Users\Trevor\Desktop\GitHub\cmpt291project\cmpy291 project\WindowsApplication3\obj\Debug\WindowsApplication3.xml
+C:\Users\Trevor\Desktop\GitHub\cmpt291project\cmpy291 project\WindowsApplication3\obj\Debug\WindowsApplication3.pdb
+C:\Users\Trevor\Desktop\GitHub\cmpt291project\cmpy291 project\WindowsApplication3\obj\Debug\WindowsApplication3.Main.resources
